@@ -1,5 +1,5 @@
-Uppgift2-dec-14
+## Uppgift2-dec-14
 
-Det egna projektet, steg 1
+### Rubrik: Det egna projektet, steg 1
 
-Se. notebook.ipynb
+- Se. notebook.ipynb
